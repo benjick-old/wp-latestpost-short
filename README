@@ -1,0 +1,25 @@
+wp-latestpost-short
+Wordpress plugin
+
+This plugin adds the shorttag [latest_post] which allows you to show 
+the latest post on a static page (e.g. your static front page).
+
+Just put [latest_post] where you want it displayed.
+
+It's formatted as follows.
+
+	<div class='latest'> 
+	<p class='title'><a href='http://example.com/the-permalink/'>The title</a></p> 
+	<p class='content'>The Content</p>
+	</div>
+
+If there is no posts it will output 
+
+	<div class='latest'>No latest post found</div>
+
+Install:
+Upload the plugin to the wp-content/plugins folder in your WordPress directory online.
+Activate the Plugin:
+	Access the Plugin Panel in your Administration Panels
+	Scroll down through the list of Plugins to find the newly installed Plugin (if not visible, start from the beginning to check to see if you followed the instructions properly and uploaded the file correctly).
+	Click on the Activate link to turn the Plugin on.
