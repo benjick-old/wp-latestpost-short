@@ -5,7 +5,7 @@ Plugin URI: https://github.com/benjick/wp-latestpost-short
 Description: Adds the shorttag [latest_post]
 Version: 0.1
 Author: Max Malm
-Author URI: http://benjick.se
+Author URI: http://maxmalm.se
 */
 
 
